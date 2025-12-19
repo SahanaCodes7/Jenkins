@@ -14,7 +14,8 @@ Key objectives include installing Jenkins, configuring Docker as a Jenkins agent
 - Navigate to **EC2 → Instances**  
 - Launch a new **Ubuntu-based EC2 instance**
 
-<img width="994" alt="Screenshot 2023-02-01 at 12 37 45 PM" src="https://user-images.githubusercontent.com/43399466/215974891-196abfe9-ace0-407b-abd2-adcffe218e3f.png">
+![EC2 instance launch](https://user-images.githubusercontent.com/43399466/215974891-196abfe9-ace0-407b-abd2-adcffe218e3f.png)
+
 ---
 
 ## Jenkins Installation
